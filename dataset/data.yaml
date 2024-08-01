@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['1-shekel', '10-shekel', '2-shekel', '5-shekel']
+
+roboflow:
+  workspace: coinsdetections
+  project: coins_detection_and_counting
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/coinsdetections/coins_detection_and_counting/dataset/4
