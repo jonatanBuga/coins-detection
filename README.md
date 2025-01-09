@@ -68,7 +68,7 @@ To perform inference on an image and calculate the total coin value:
 
 ### Example
 Given an input image containing coins:
-![Example Image](path/to/example_image.jpg)
+![Example Image]
 
 The system outputs:
 - Detected coins with bounding boxes.
@@ -92,7 +92,7 @@ coins-detection/
 ### Example Outputs:
 | Input Image | Detection Results | Total Value |
 |-------------|-------------------|-------------|
-| ![Input](path/to/input.jpg) | ![Detected](path/to/detected.jpg) | `18 Shekels` |
+| ![Input] | ![Detected] | `18 Shekels` |
 
 ## Tools and Technologies
 - **YOLOv5:** State-of-the-art object detection model.
